@@ -12,7 +12,7 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-log-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./fathom-log-dark.svg">
   <img alt="The last 365 days as a dive: 9 metres down at one metre per contribution, reaching the sunlit zone. 4 active days, longest streak 1 days, longest break 266 days, 0 followers, 0 stars, 1 year on GitHub. Languages: CSS 89%, JavaScript 5%, TypeScript 3%, HTML 3%." src="./assets/fathom-log-light.svg" width="100%">
 </picture>
 </p>
