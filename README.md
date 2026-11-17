@@ -42,7 +42,7 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-end-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./fathom-end-dark.svg">
   <img alt="Back at the surface beside a diver-down buoy and a message in a bottle. Thanks for diving in. The water’s fine. Come say hi." src="./assets/fathom-end-light.svg" width="100%">
 </picture>
 </p>
