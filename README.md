@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-hero-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./fathom-hero-dark.svg">
   <img alt="Shivansh: CS &amp; AI Undergrad Exploring Quant Models, AI. Cinematic title card: the camera descends onto a reef grown from the last 52 weeks of contributions, fish named after featured repositories swim past, and a depth gauge settles at 9 metres, the sunlit zone." src="./assets/fathom-hero-light.svg" width="100%">
 </picture>
 </p>
